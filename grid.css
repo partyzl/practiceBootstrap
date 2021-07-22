@@ -71,10 +71,6 @@
   .location-navbar {
     font-size: xx-large;
   }
-  header > section.navbar {
-    font-size: xx-large;
-    color: brown;
-  }
 }
 @media only screen and (max-width: 992px) {
   .p-3 {
@@ -82,6 +78,5 @@
   }
   .p-2 {
     margin-top: 20px;
-  }
   }
 }
